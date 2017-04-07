@@ -2,9 +2,11 @@ git研修中です
 
 
 <html>
-    <head>
+     <head>
     </head>
     <body>
+
     <p>gitこれはdevelop　ブランチだよ</p>
+
     </body>
     </html>

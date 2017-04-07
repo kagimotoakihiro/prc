@@ -2,9 +2,9 @@ git研修中です
 
 
 <html>
-    <head>
+     <head>
     </head>
     <body>
-    <p>git研修中です</p>
+    <p>git講習午後の部</p>
     </body>
     </html>

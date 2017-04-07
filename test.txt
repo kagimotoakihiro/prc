@@ -5,6 +5,6 @@ git研修中です
     <head>
     </head>
     <body>
-    <p>git研修中です</p>
+    <p>gitこれはdevelop　ブランチだよ</p>
     </body>
     </html>
